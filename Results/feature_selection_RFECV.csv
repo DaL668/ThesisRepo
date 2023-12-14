@@ -1,0 +1,59 @@
+Feature,Rank
+Flow Duration,1
+Total Length of Fwd Packet,1
+Total Length of Bwd Packet,1
+Fwd Packet Length Min,1
+Bwd Packet Length Max,1
+Bwd Packet Length Min,1
+Bwd Packet Length Mean,1
+Flow Bytes/s,1
+Flow Packets/s,1
+Flow IAT Mean,1
+Flow IAT Std,1
+Flow IAT Max,1
+Flow IAT Min,1
+Fwd IAT Total,1
+Fwd IAT Mean,1
+Fwd IAT Max,1
+Fwd Header Length,1
+Fwd Packets/s,1
+Bwd Packets/s,1
+Packet Length Min,1
+Packet Length Max,1
+Packet Length Mean,1
+Packet Length Std,1
+Packet Length Variance,1
+Average Packet Size,1
+Bwd Segment Size Avg,1
+Subflow Bwd Bytes,1
+FWD Init Win Bytes,1
+Bwd Init Win Bytes,1
+Fwd Seg Size Min,1
+Idle Mean,1
+Idle Max,1
+Idle Min,1
+Total Fwd Packet,2
+Fwd Packet Length Mean,2
+Bwd Header Length,2
+ACK Flag Count,2
+Fwd Segment Size Avg,2
+Total Bwd packets,3
+Fwd Packet Length Max,3
+Fwd IAT Min,3
+Subflow Fwd Bytes,3
+Fwd Act Data Pkts,3
+Bwd Packet Length Std,4
+Bwd IAT Total,4
+Bwd IAT Mean,4
+Bwd IAT Max,4
+Idle Std,4
+Protocol,5
+Fwd Packet Length Std,5
+Fwd IAT Std,5
+Bwd IAT Min,5
+Down/Up Ratio,5
+Bwd IAT Std,6
+SYN Flag Count,6
+PSH Flag Count,6
+Bwd Packet/Bulk Avg,6
+Bwd Bulk Rate Avg,6
